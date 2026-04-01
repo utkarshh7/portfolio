@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --font-headline: "EB Garamond", serif;
+  --font-body: "Manrope", sans-serif;
+  --font-label: "Manrope", sans-serif;
+
+  --color-primary: #c2652a;
+  --color-on-primary: #ffffff;
+  --color-background: #faf5ee;
+  --color-on-background: #3a302a;
+  --color-surface: #faf5ee;
+  --color-on-surface: #3a302a;
+  --color-surface-variant: #ece6dc;
+  --color-on-surface-variant: #605850;
+  --color-outline: #9a9088;
+  --color-outline-variant: #d8d0c8;
+  --color-surface-container-low: #f6f0e8;
+  --color-surface-container-lowest: #ffffff;
+}
+
+@layer base {
+  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Manrope:wght@200..800&display=swap');
+
+  body {
+    @apply bg-background text-on-background font-body;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-headline;
+  }
+}
+
+@layer utilities {
+  .serif-italic {
+    @apply font-headline italic;
+  }
+  
+  .card-shadow {
+    box-shadow: 0 2px 16px rgba(58, 48, 42, 0.04);
+  }
+}
