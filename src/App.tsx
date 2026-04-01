@@ -384,7 +384,7 @@ export default function App() {
                   <label className="block font-label text-xs uppercase tracking-widest text-on-surface-variant mb-2">Name</label>
                   <input 
                     type="text" 
-                    placeholder="John Doe"
+                    placeholder="Utkarsh D"
                     className="w-full bg-background border border-outline-variant rounded-lg px-4 py-3 focus:border-primary focus:ring-1 focus:ring-primary outline-none transition-all font-body"
                   />
                 </div>
@@ -392,7 +392,7 @@ export default function App() {
                   <label className="block font-label text-xs uppercase tracking-widest text-on-surface-variant mb-2">Email Address</label>
                   <input 
                     type="email" 
-                    placeholder="john@company.com"
+                    placeholder="utkarsh@company.com"
                     className="w-full bg-background border border-outline-variant rounded-lg px-4 py-3 focus:border-primary focus:ring-1 focus:ring-primary outline-none transition-all font-body"
                   />
                 </div>
