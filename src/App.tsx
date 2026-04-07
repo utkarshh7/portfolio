@@ -197,7 +197,7 @@ export default function App() {
       issuer: "AWS Academy",
       description: "Cloud architecture foundational excellence.",
       icon: Award,
-      link: "https://www.credly.com/earner/earned/badge/410467bb-7a00-4eb0-b0af-39024cf453e2"
+      link: "https://drive.google.com/file/d/1qZgiziPLOXukrjUB3BEWN2cguKlJjfhQ/view?usp=sharing"
     },
     {
       title: "Programming using Java - Infosys Springboard",
