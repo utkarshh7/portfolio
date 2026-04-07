@@ -33,7 +33,7 @@ const Navbar = () => {
     { name: 'Contact', href: '#contact' },
   ];
 
-  const resumeLink = "https://drive.google.com/file/d/14vcFJeH4DDRf2eiywh2mvCYczATv-Dl5/view?usp=sharing";
+  const resumeLink = "https://drive.google.com/file/d/1ESk7_Z-l43gyf5-7yiQtufHBbsp8casI/view";
 
   return (
     <header className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ${isScrolled ? 'bg-background/80 backdrop-blur-md border-b border-outline-variant/60 py-3' : 'bg-transparent py-5'}`}>
