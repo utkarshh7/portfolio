@@ -230,7 +230,7 @@ export default function App() {
           >
             <div className="relative w-full max-w-md aspect-[3/4] flex items-center justify-center">
               <img 
-                src="/public/avatar.png" 
+                src="https://github.com/utkarshh7/portfolio/blob/main/public/avatar.png?raw=true" 
                 alt="Utkarsh Dubey Avatar" 
                 className="w-full h-auto max-h-full object-contain"
                 referrerPolicy="no-referrer"
