@@ -230,7 +230,7 @@ export default function App() {
           >
             <div className="relative w-full max-w-md aspect-[3/4] flex items-center justify-center">
               <img 
-                src="https://lh3.googleusercontent.com/aida/ADBb0uhX4tsPnEC4fGx1GiNMrWZBMorppQrE9se-UbSG5P_uR6iSAk1EKVgpPe3mLu2v-t8U69SqSbz9KPUehn-b7pzJSuCO8SbeQut7P608WFBNdOZrrwewX0IOMvgJOHt1_KpEHfGkxeyfFGhlzoLNWMV_8YvzYEpCTks10x1ngTcR6Tja4AUCiRfkucf11wiQH-u9Bml5X-5ssONmyF8Ye5YA_cIIgDANXjozZwX6oTj5j4YC7SxUerfeXfbGtsOcefX_ri7tNftD" 
+                src="public/utkarsh_avatar.png" 
                 alt="Utkarsh Dubey Avatar" 
                 className="w-full h-auto max-h-full object-contain"
                 referrerPolicy="no-referrer"
