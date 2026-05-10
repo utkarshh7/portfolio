@@ -343,7 +343,7 @@ export default function App() {
                   <div className="w-10 h-10 rounded-full bg-surface-variant flex items-center justify-center text-primary">
                     <MapPin size={20} />
                   </div>
-                  <span className="font-label text-on-background text-sm">Noida, India / Remote</span>
+                  <span className="font-label text-on-background text-sm">Noida, India</span>
                 </div>
               </div>
               
