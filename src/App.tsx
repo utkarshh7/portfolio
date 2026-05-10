@@ -200,6 +200,13 @@ export default function App() {
       link: "https://drive.google.com/file/d/1qZgiziPLOXukrjUB3BEWN2cguKlJjfhQ/view?usp=sharing"
     },
     {
+      title: "Open Source Connect Global",
+      issuer: "Open Source Connect",
+      description: "Active contributor to open source projects, demonstrating commitment to collaborative software development and community engagement.",
+      icon: Award,
+      link: "https://drive.google.com/file/d/1lHnx43l_SlzBzGWeC7geBuPvdu7xnnkG/view?usp=sharing"
+    },
+    {
       title: "Programming using Java - Infosys Springboard",
       issuer: "Infosys",
       description: "Advanced Java programming and backend fundamentals.",
